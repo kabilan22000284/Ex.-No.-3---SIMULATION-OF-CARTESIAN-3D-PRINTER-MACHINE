@@ -65,8 +65,8 @@
 
 
 
-### Name:AKASH KUMAR M.
-### Register Number:212223230010
+### Name: KABILAN V
+### Register Number:212222100018
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
