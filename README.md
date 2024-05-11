@@ -66,8 +66,8 @@
 ![328117860-9076695d-4943-4b8e-a290-675dcbc10b43](https://github.com/divyakumars/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393621/5bba9857-0fd5-4b9a-9b89-b6cb4c78ae04)
 
 
-### Name:ALAGU NACHIYAR K
-### Register Number: 212222240006
+### Name:Kabilan V
+### Register Number: 212222100018
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
